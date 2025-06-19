@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Personal Portfolio Website of Dhairya Majmudar a programming enthusiast from IIIT Kota
+Personal Portfolio Website of Akash Sharma a programming enthusiast from Lovely professional university
 <br>
   <hr>
 
