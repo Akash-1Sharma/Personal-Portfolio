@@ -43,7 +43,7 @@ const Projects = () => {
             para="Personal portfolio website created with react and Tailwind CSS"
             img={Portfolio}
             link=""
-            github_link="https://github.com/Akash-1Sharma/Portfolio-Akash"
+            github_link="https://github.com/Akash-1Sharma/Personal-Portfolio"
             react={
               <Tooltip title="React" arrow>
                 <IconButton>
